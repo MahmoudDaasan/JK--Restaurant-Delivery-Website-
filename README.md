@@ -1,7 +1,9 @@
 # Restaurant Delivery Website
 
 This is a Django-based web application for a restaurant's delivery service. It allows users to browse the menu, place orders, and for administrators to manage and mark orders as delivered.
-![Uploading Screenshot 2024-09-15 142747.png…]()
+
+![Screenshot 2024-09-15 142747](https://github.com/user-attachments/assets/a25fb932-6cba-4163-8059-0900185d0fec)
+
 
 
 ## Purpose
